@@ -21,6 +21,11 @@ npm install -g chromedriver
 * Github: [@pitnarii](https://github.com/pitnarii)
 * LinkedIn: [@https:\/\/www.linkedin.com\/in\/kpitnaree\/](https://linkedin.com/in/https:\/\/www.linkedin.com\/in\/kpitnaree\/)
 
+## Scope
+* Log-in page with 'standard user' access
+* Testing product page including add and remove items
+* Testing Shopping cart page to check if the user information can be filled and completed check out. 
+
 ## Show your support
 
 Give a ⭐️ if this project helped you!
